@@ -6,10 +6,10 @@ Extracting buildings accurately from very high-resolution (VHR) remote sensing i
 
 ## Prerequisites
 
-scikit-image  0.17.2
-numpy  1.19.3
-Python3 Python 3.6.2
-PyTorch  torch 1.7.0+cu110
+scikit-image  0.17.2  
+numpy  1.19.3  
+Python3 Python 3.6.2  
+PyTorch  torch 1.7.0+cu110  
 
 ## Architecture
 
@@ -23,6 +23,12 @@ PyTorch  torch 1.7.0+cu110
 
 The pretrained models for WHU aerial building dataset and INRIA dataset can be download from [Google Drive](https://drive.google.com/drive/folders/1LD49DUJ9cw9DX7ssow2CQGZLpktvg8tZ?usp=sharing), [Baidu Wangpan](https://pan.baidu.com/s/1WWtrBzGmbM2eoO8NV1_ybg?pwd=nfyx )提取码: nfyx. 
 
+## Datasets
+
+[WHU aerial dataset](http://gpcv.whu.edu.cn/data/building_dataset.html)  
+[Inria Aerial Image Labeling Dataset](https://project.inria.fr/aerialimagelabeling/)  
+[NZ32km2 dataset](https://drive.google.com/file/d/1PNkGLRT8J9h4Cx9iyS0Bh9vamQS_KOTz/view)
+
 ## Acknowledgement
 
 We appreciate the work from the following repositories: 
@@ -30,7 +36,7 @@ We appreciate the work from the following repositories:
 
 ## License
 
-
+This code is available for non-commercial scientific research purposes under GNU General Public License v3.0. By downloading and using this code you agree to the terms in the LICENSE. Third-party datasets and software are subject to their respective licenses.
 
 ## Citation
 
