@@ -6,9 +6,13 @@ Extracting buildings accurately from very high-resolution (VHR) remote sensing i
 
 ## Prerequisites
 
+
+
 ## Architecture
 
 ![CGSANet ](https://github.com/MrChen18/CGSANet/blob/main/figures/Architecture_CGSANet.jpg "CGSANet")
+
+## Boundary accuracy evaluation on WHU dataset
 
 ![Boundary evaluation ](https://github.com/MrChen18/CGSANet/blob/main/figures/Boundary%20accuracy%20evaluation%20on%20WHU%20dataset.jpg "Boundary evaluation")
 
@@ -17,6 +21,9 @@ Extracting buildings accurately from very high-resolution (VHR) remote sensing i
 The pretrained models for WHU aerial building dataset and INRIA dataset can be download from [Google Drive](https://drive.google.com/drive/folders/1LD49DUJ9cw9DX7ssow2CQGZLpktvg8tZ?usp=sharing), [Baidu Wangpan](https://pan.baidu.com/s/1WWtrBzGmbM2eoO8NV1_ybg?pwd=nfyx )提取码: nfyx. 
 
 ## Acknowledgement
+
+We appreciate the work from the following repositories: 
+[BASNet](https://github.com/xuebinqin/BASNet) and [F3Net](https://github.com/weijun88/F3Net).
 
 ## Citation
 
