@@ -6,7 +6,10 @@ Extracting buildings accurately from very high-resolution (VHR) remote sensing i
 
 ## Prerequisites
 
-
+scikit-image  0.17.2
+numpy  1.19.3
+Python3 Python 3.6.2
+PyTorch  torch 1.7.0+cu110
 
 ## Architecture
 
@@ -24,6 +27,10 @@ The pretrained models for WHU aerial building dataset and INRIA dataset can be d
 
 We appreciate the work from the following repositories: 
 [BASNet](https://github.com/xuebinqin/BASNet) and [F3Net](https://github.com/weijun88/F3Net).
+
+## License
+
+
 
 ## Citation
 
