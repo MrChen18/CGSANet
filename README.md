@@ -1,6 +1,6 @@
 # [CGSANet: A contour-guided and local structure-aware encoder-decoder network for accurate building extraction from very high-resolution remote sensing imagery](https://ieeexplore.ieee.org/document/9664368)
 
-A special day and a special gift from Prof. Shi's group. January 4th, 2022
+January 4th, 2022
 
 ## Introduction
 
