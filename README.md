@@ -48,10 +48,10 @@ If you find this work is helpful, please cite our paper
 @ARTICLE{9664368,
   author={Chen, Shanxiong and Shi, Wenzhong and Zhou, Mingting and Zhang, Min and Xuan, Zhaoxin},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={CGSANet: A contour-guided and local structure-aware encoder-decoder network for accurate building extraction from very high-resolution remote sensing imagery}, 
-  year={2021},
-  volume={},
+  title={CGSANet: A Contour-Guided and Local Structure-Aware Encoder–Decoder Network for Accurate Building Extraction From Very High-Resolution Remote Sensing Imagery}, 
+  year={2022},
+  volume={15},
   number={},
-  pages={1-1},
+  pages={1526-1542},
   doi={10.1109/JSTARS.2021.3139017}}
 ```
