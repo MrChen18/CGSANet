@@ -29,7 +29,7 @@ The pretrained models for WHU aerial building dataset and INRIA dataset can be d
 
 [WHU aerial dataset](http://gpcv.whu.edu.cn/data/building_dataset.html)  
 [Inria Aerial Image Labeling Dataset](https://project.inria.fr/aerialimagelabeling/)  
-[NZ32km2 dataset](https://drive.google.com/file/d/1PNkGLRT8J9h4Cx9iyS0Bh9vamQS_KOTz/view)
+[NZ32km2 dataset](https://drive.google.com/file/d/1PNkGLRT8J9h4Cx9iyS0Bh9vamQS_KOTz/view) Note: The link to the original NZ32KM2 dataset has expired. If you still want to download the dataset, please leave your email in the issue.
 
 ## Acknowledgement
 
@@ -45,13 +45,13 @@ This code is available for non-commercial scientific research purposes under GNU
 If you find this work is helpful, please cite our paper
 
 ```
-@ARTICLE{9664368,
+@article{chen2021cgsanet,
+  title={CGSANet: A Contour-Guided and Local Structure-Aware Encoder--Decoder Network for Accurate Building Extraction From Very High-Resolution Remote Sensing Imagery},
   author={Chen, Shanxiong and Shi, Wenzhong and Zhou, Mingting and Zhang, Min and Xuan, Zhaoxin},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={CGSANet: A Contour-Guided and Local Structure-Aware Encoder–Decoder Network for Accurate Building Extraction From Very High-Resolution Remote Sensing Imagery}, 
-  year={2022},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
   volume={15},
-  number={},
-  pages={1526-1542},
-  doi={10.1109/JSTARS.2021.3139017}}
+  pages={1526--1542},
+  year={2021},
+  publisher={IEEE}
+}
 ```
